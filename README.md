@@ -1,2 +1,3 @@
 # Bank-Management
-A bank management application using Jframe
+A bank management application using Java Swing framework.
+
